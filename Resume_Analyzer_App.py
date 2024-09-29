@@ -57,7 +57,7 @@ def show_pdf(file_path):
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 
-connection = pymysql.connect(host='localhost', user='root', password='ananddev')
+connection = pymysql.connect(host='localhost', user='root', password='')
 cursor = connection.cursor()
 
 
