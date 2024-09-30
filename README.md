@@ -1,15 +1,15 @@
 # Resume_Analyzer_App_Jazzee
 
 ## Libraries used:
-Extracting user's information from the Resume, I used PyResparser
-Extracting Resume PDF into Text, I used PDFMiner.
+*PyResparser for extracting information from resume.<br/>
+*PDFMiner to convert pdf onto txt.
 
 ## Features:
-Resume Score
-User's & Admin Section
-Shows existing skills
-Skills Recommendations
-Resume writing Tips suggestions
+*Resume Score<br/>
+*User's & Admin Section<br/>
+*Shows existing skills<br/>
+*Skills Recommendations<br/>
+*Resume writing Tips suggestions
 
 ## Screenshots of the page:
 ### User side:
