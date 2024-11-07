@@ -1,4 +1,4 @@
-# Resume_Analyzer_App_Jazzee
+# Resume_Analyzer_App
 
 ## Libraries used:
 * PyResparser for extracting information from resume.<br/>
